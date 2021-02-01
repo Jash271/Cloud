@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  nodejsk8-helm-chart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-02-01T15:47:03.7309646+05:30"
+    description: A Helm chart for Kubernetes
+    digest: e39060df10998684fd8b6acbe46b2d68466b0b910810e7a4ee772549aebf3d09
+    name: nodejsk8-helm-chart
+    type: application
+    urls:
+    - https://jash271.github.io/Test_helm/nodejsk8-helm-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-02-01T15:47:03.7069011+05:30"
